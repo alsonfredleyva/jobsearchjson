@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" }
+  ],
+  "JobsSeeker": [
+    { "id": 1, "name": "Alson Fred E. Leyva", "email": "alsonfredleyva999@gmail.com" ,"Job": "IT network and Security Administrator", "no.": "09EXAMPLE35", "postId": 1},
+    { "id": 2, "name": "Rey Obarco ", "email": "****************@gmail.com" ,"job": "Web Developer", "no.": "09EXAMPLE36", "postId": 1},
+    { "id": 3, "name": "Metchlyr Balasabas", "email": "****************@gmail.com" ,"job": "Web Designer", "no.": "09EXAMPLE37", "postId": 1}
+  ],
+  "profile": {
+    "name": "Job Search System"
+  }
+}
